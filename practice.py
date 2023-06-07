@@ -5,5 +5,7 @@ fun()
 
 def fun2():
   print("Happy new year")
+  print("this is great change")
+  
 fun2()
 
